@@ -52,4 +52,4 @@ Early in the project, I realized I had to be selective with tool usage. Adding t
 I gained something valuable from this project: hands-on experience in building practical, tool-augmented AI agents that work under real-world constraints. The project stretched my understanding of LLMs, reinforced the importance of infrastructure and tracing, and left me more excited than ever to keep exploring this fast-evolving space.
 
 
-
+![certificate](./certificate.png)
