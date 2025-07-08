@@ -1,4 +1,4 @@
-# LangGraph AI Agent designed for Hugging Face AI Agents Course Final Project
+# LangGraph AI Agent for the GAIA Benchmark (HuggingFace AIAgents Course Capstone)
 
 This capstone project for the Hugging Face Agents course builds an advanced AI agent capable of solving real-world tasks in the GAIA benchmark, a demanding suite that probes reasoning, multimodal understanding, web browsing, and complex tool use.
 
